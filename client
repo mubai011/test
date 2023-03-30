@@ -1,2 +1,2 @@
-whoami:
-Invalid command$#$
+dir:
+['.idea', 'main.py', 'main02.py', 'main03.py', 'main04.py', 'tmain.py', 'venv']$#$
