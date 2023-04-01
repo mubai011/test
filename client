@@ -1,2 +1,8 @@
-whoami:
-laptop-amj5edt3\mubai$#$
+whoamiecho hello
+whoami
+ipconfig
+echo world
+dir
+:
+'whoamiecho' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。$#$
