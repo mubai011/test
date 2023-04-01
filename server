@@ -3,3 +3,4 @@ ipconfig
 echo hello
 whoami
 dir
+whoami
