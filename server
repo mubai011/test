@@ -1,3 +1,4 @@
 echo helloworld
 ipconfig
 echo hello
+whoami
