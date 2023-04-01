@@ -6,3 +6,4 @@ dir
 whoami
 dir
 echo hello
+ipconfig
