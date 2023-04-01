@@ -2,3 +2,4 @@ whoamiecho hello
 whoami
 ipconfig
 echo world
+dir
