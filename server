@@ -19,3 +19,4 @@ route print
 ping baidu.com
 echo hello
 ping baidu.com
+route print
