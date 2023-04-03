@@ -9,3 +9,4 @@ echo hello
 ipconfig
 echo hellowordl
 ipconfig
+whoami
