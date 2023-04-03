@@ -1,3 +1,4 @@
 
 echo helloworld
 echo hello
+whoami
