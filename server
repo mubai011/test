@@ -16,3 +16,4 @@ ipconfig
 dir
 route print'
 route print
+ping baidu.com
