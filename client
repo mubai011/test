@@ -1,3 +1,5 @@
 
 echo helloworld:
 helloworld$#$
+echo hello:
+hello$#$
