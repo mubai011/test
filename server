@@ -5,3 +5,4 @@ whoami
 dir
 ipconfig
 route print
+ping baidu.com
