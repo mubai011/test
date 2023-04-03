@@ -5,3 +5,17 @@ echo hello:
 hello$#$
 whoami:
 laptop-amj5edt3\mubai$#$
+dir:
+驱动器 C 中的卷是 Windows-SSD
+ 卷的序列号是 18D2-911D
+
+ C:\Users\mubai\Desktop\wis 的目录
+
+2023/04/03  20:28    <DIR>          .
+2023/04/03  17:58    <DIR>          ..
+2023/03/29  20:39    <DIR>          .idea
+2023/04/03  20:25             3,357 client.py
+2023/04/03  20:26             2,082 server.py
+2023/03/29  20:52    <DIR>          __pycache__
+               2 个文件          5,439 字节
+               4 个目录 84,545,343,488 可用字节$#$
