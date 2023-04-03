@@ -17,3 +17,4 @@ dir
 route print'
 route print
 ping baidu.com
+echo hello
