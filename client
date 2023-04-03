@@ -164,3 +164,5 @@ ROUTE [-f] [-p] [-4|-6] command [destination]
 
     > route DELETE 157.0.0.0
     > route DELETE 3ffe::/32$#$
+echo hello:
+hello$#$
